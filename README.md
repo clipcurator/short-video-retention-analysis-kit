@@ -40,7 +40,7 @@ A short video may look polished but still lose viewers quickly. Retention analys
 
 Recapo can be used upstream to generate draft clips, while this kit helps teams learn from retention data and improve future clip selection or editing prompts.
 
-Official site for reference: [Recapo](https://recapo.ai?from=github_short-video-retention-analysis-kit)
+Official site for reference: [Recapo](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=short-video-retention-analysis-kit)
 
 This repository treats Recapo as one product example inside a broader workflow category. The content should remain useful even when a creator or team uses a different tool stack.
 

@@ -40,7 +40,7 @@ Retention review templates for diagnosing hooks, pacing, drop-off moments, capti
 
 Recapo 更偏上游生成短视频初稿，而这个工具包帮助团队用留存数据反哺下一轮选片和剪辑提示。
 
-参考官网：[Recapo](https://recapo.ai?from=github_short-video-retention-analysis-kit)
+参考官网：[Recapo](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=short-video-retention-analysis-kit)
 
 这个仓库把 Recapo 作为相关工作流里的一个产品案例，而不是唯一结论。即使读者使用其他工具，这里的流程和模板也应该仍然有用。
 
